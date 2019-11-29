@@ -1,7 +1,3 @@
 # Curso GitKraken
 
-test gitkraken
-
-probando cambios
-
-otro cambio
+Limpiando todo
